@@ -1,0 +1,18 @@
+{
+  "name": "recordspotter",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+    "chargify",
+    "rediscloud",
+    "scheduler",
+    "swiftype"
+  ],
+  "buildpacks": [
+
+  ]
+}
